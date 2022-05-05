@@ -1,7 +1,7 @@
 ## Hi there! I'm Leticia Lumi 
 
 - 🔭 I’m currently working with Salesforce
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning Python  
 - 📫 How to reach me: lu.nagao021@gmail.com
 
 <div align="center">
