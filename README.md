@@ -48,16 +48,15 @@
   <a href="https://github.com/letnagao/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20really%20love%20music;Always%20listening%20something%20new&font=Fira%20Code&center=true&width=420&height=45&color=f75c7e&vCenter=true&size=20"></a>
 </p>
   
-<p align="center">
+<!-- <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://readme.andyruwruw.com/api/now-playing">
   </a>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme.andyruwruw.com/api/top-played">
-</p>
+</p> -->
  
   
 <h1 align='center'>⚡️<i>Don't give up!</i>⚡️</h1>
