@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/letnagao/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20Analyst;Student%20and%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=420&height=45&color=f75c7e&vCenter=true&size=20"></a>
+  <a href="https://github.com/letnagao/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20Analyst;Student%20and%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=420&height=45&color=1a59e0&vCenter=true&size=20"></a>
 </p>
 
 <h4 align="left">
