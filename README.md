@@ -59,16 +59,6 @@
  <a href="https://discord.gg/nr6XFBu3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>    
   
   
-<!-- <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p> 
-
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/top-played">
-</p> -->
- 
   <p>
      <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
   </p>
