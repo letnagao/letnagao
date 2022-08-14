@@ -69,3 +69,16 @@
   </p>
 
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details align="left"> 
+	<summary>"Tell me more, I can't get enough!"</summary>
+	<br>
+	<ul>
+🎶: Somebody that i used to know
+🌆: Glasgow
+🎇: 08.01.98
+📚: Wuthering Heights
+🌸: Spring
+📽: Gattaca
+	</ul>
+</details>
