@@ -8,7 +8,10 @@
 </p>
 
 <h4 align="left">
+	<img align="right" height="200" src="https://user-images.githubusercontent.com/99754900/209839668-202ca168-8fa4-4bc5-a31b-32c8d08799e0.png">
+
   ✨ About me:
+
 </h4>
 
 -  I love the intersection of code and design 💖
@@ -16,7 +19,7 @@
 -  I’m currently learning React ⚛️ 
 -  I like to talk about interesting stuff, just drop a message 👋 
 
-  
+
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
 <h4> ✨ My Dev Statistics: </h4>
 <div align="left">
