@@ -44,7 +44,6 @@
   <img align="center" alt="Lumi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Lumi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />        
   <img align="center" alt="Lumi-Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
-  <img align="center" alt="Lumi-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Lumi-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="center" alt="Lumi-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Lumi-Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />                         
@@ -89,13 +88,3 @@
 
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<details align="left"> 
-	<summary>"Looking hard for what I can be"</summary>
-	<br>
-	<ul>
-🎶: Somebody that i used to know
-📚: Wuthering Heights
-🌸: Spring
-📽: Gattaca
-	</ul>
-</details>
