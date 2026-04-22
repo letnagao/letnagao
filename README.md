@@ -59,8 +59,12 @@
   <img alt="Lumi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Lumi-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img alt="Lumi-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+</div>
 
-  
+##
+
+![snake gif](https://github.com/letnagao/letnagao/raw/output/github-contribution-grid-snake.svg)
+
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
   
 <h4 align="left">
