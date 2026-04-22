@@ -28,7 +28,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letnagao&layout=compact&theme=github_dark&hide_border=1"/>
 </div>
   
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img alt="Lumi-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"> 
   <img alt="Lumi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Lumi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -50,8 +50,10 @@
   <img alt="Lumi-Snowflake" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" />
   <img alt="Lumi-Tableau" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"><br>
+</div>
+
 <h4> ✨ In Progress: </h4>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img alt="Lumi-Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"> 
   <img alt="Lumi-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="Lumi-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
